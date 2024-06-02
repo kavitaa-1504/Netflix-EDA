@@ -1,10 +1,13 @@
 Netflix Movies and TV Shows EDA
 
 Project Overview
+
 This project involves a comprehensive Exploratory Data Analysis (EDA) of the Netflix dataset, which includes movies and TV shows. The objective is to uncover insights and trends related to the content available on Netflix.
 
 Table of Contents
+
 Introduction
+
 Dataset
 Objectives
 Technologies Used
