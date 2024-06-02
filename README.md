@@ -7,7 +7,6 @@ This project involves a comprehensive Exploratory Data Analysis (EDA) of the Net
 Table of Contents
 
 Introduction
-
 Dataset
 Objectives
 Technologies Used
